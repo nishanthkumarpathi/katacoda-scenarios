@@ -1,0 +1,26 @@
+{
+    "title": "Create VPC using Pulumi",
+    "description": "",
+    "details": {
+      "steps": [
+        {
+          "title": "Step 1",
+          "text": "step1.md"
+        }
+      ],
+      "finish": {
+        "text": "finish.md"
+      }
+    },
+    "environment": {
+      "hideintro": true,
+      "uieditorpath": "/home/lab",
+      "uilayout": "terminal",
+      "showide": true,
+      "ideport": 23000
+    },
+    "backend": {
+      "imageid": "ubuntu:2004"
+    }
+  }
+
