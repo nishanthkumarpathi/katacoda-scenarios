@@ -13,8 +13,8 @@
         ]
     },
     "environment": {
-        "hideintro": false,
-        "hidefinish": false,
+        "hideintro": true,
+        "hidefinish": true,
         "uilayout": "terminal"
     },
     "backend": {
