@@ -1,0 +1,21 @@
+{
+    "noindex": true,
+    "title": "Python Datatypes",
+    "description": "Python Datatypes",
+    "details": {
+        "steps": [
+            {
+                "title": "",
+                "text": "step1.md"
+            }
+        ]
+    },
+    "environment": {
+        "hideintro": true,
+        "hidefinish": true,
+        "uilayout": "terminal"
+    },
+    "backend": {
+        "imageid": "python:alpine"
+    }
+}

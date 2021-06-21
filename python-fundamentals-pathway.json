@@ -1,0 +1,13 @@
+{
+  "title": "Python Fundamentals",
+  "description": "In this Course you will undersand Python Fundamentals",
+  "icon": "fa-katacoda",
+  "courses": [
+    {
+      "title": "Python Datatypes",
+      "description": "",
+      "pathway_id": "python-datatypes",
+      "course_id": "terminal"
+    }
+  ]
+}

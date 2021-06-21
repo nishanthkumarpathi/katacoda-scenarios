@@ -1,10 +1,7 @@
-# Interactive Katacoda Scenarios
+# Nishanth's Training Lab
 
-[![](http://shields.katacoda.com/katacoda/nishanthlabs/count.svg)](https://www.katacoda.com/nishanthlabs "Get your profile on Katacoda.com")
+[![](http://shields.katacoda.com/katacoda/nishanthlabs/count.svg)](https://katacoda.com/nishanthkp "Get your profile on Katacoda.com")
 
-Visit https://www.katacoda.com/nishanthlabs to view the profile and interactive scenarios
+Visit https://katacoda.com/nishanthkp to view more labs.
 
-### Writing Scenarios
-Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
 
-For examples, visit https://github.com/katacoda/scenario-example
