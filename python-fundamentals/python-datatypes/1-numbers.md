@@ -1,5 +1,3 @@
-# Python Numbers
-
 Integers, floating point numbers and complex numbers fall under Python numbers category. 
 
 They are defined as int, float and complex classes in Python.

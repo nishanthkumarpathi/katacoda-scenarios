@@ -5,25 +5,14 @@
     "details": {
         "steps": [
             {
-                "title": "Python Number Title",
                 "text": "1-numbers.md"
             },
             {
-                "title": "Python List Title",
                 "text": "2-list.md"
             }
-        ],
-        "intro": {
-            "text": "intro.md",
-            "credits": "__Author:__ Jaret Anderson, Technical Contributor (Red Hat)"
-          },
-          "finish": {
-            "text": "finish.md"
-          }
+        ]
     },
     "environment": {
-        "hideintro": false,
-        "hidefinish": false,
         "uilayout": "terminal"
     },
     "backend": {
