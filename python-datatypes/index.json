@@ -1,0 +1,23 @@
+{
+    "noindex": true,
+    "title": "Python Datatypes",
+    "description": "Python Datatypes",
+    "details": {
+        "steps": [
+            {
+                "text": "1-numbers.md"
+            },
+            {
+                "text": "2-list.md"
+            }
+        ]
+    },
+    "environment": {
+        "hideintro": true,
+        "hidefinish": true,
+        "uilayout": "terminal"
+    },
+    "backend": {
+        "imageid": "centos7"
+    }
+}
