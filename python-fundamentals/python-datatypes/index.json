@@ -16,6 +16,6 @@
         "uilayout": "terminal"
     },
     "backend": {
-        "imageid": "python:alpine"
+        "imageid": "nodejs:12"
     }
 }
