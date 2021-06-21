@@ -13,9 +13,11 @@
         ]
     },
     "environment": {
+        "hideintro": false,
+        "hidefinish": false,
         "uilayout": "terminal"
     },
     "backend": {
-        "imageid": "python"
+        "imageid": "centos7"
     }
 }

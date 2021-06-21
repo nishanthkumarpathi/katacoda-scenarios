@@ -6,6 +6,10 @@ We can use the type() function to know which class a variable or a value belongs
 
 Similarly, the isinstance() function is used to check if an object belongs to a particular class.
 
+### Open Python Terminal
+
+`python`{{execute}}
+
 ### Integer
 
 `a = 5`{{execute}}
